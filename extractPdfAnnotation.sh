@@ -2,4 +2,4 @@
 
 cd "$(dirname "$0")"
 
-python3 ./main.py $1
+./venv/bin/python3 ./main.py $1

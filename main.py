@@ -8,7 +8,6 @@ def extract_highlights(pdf_path):
 
     Args:
         pdf_path (str): PDFファイルのパス
-        output_file (str, optional): 出力ファイルのパス。指定しない場合は標準出力に表示
 
     Returns:
         list: ハイライトされたテキストのリスト
